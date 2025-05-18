@@ -1,0 +1,13 @@
+D:\Projects\.Net\Microservices\Play.Common\src\Play.Common\bin\Release\net8.0\Play.Common.deps.json
+D:\Projects\.Net\Microservices\Play.Common\src\Play.Common\bin\Release\net8.0\Play.Common.dll
+D:\Projects\.Net\Microservices\Play.Common\src\Play.Common\bin\Release\net8.0\Play.Common.pdb
+D:\Projects\.Net\Microservices\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.csproj.AssemblyReference.cache
+D:\Projects\.Net\Microservices\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net\Microservices\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.AssemblyInfoInputs.cache
+D:\Projects\.Net\Microservices\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.AssemblyInfo.cs
+D:\Projects\.Net\Microservices\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\Microservices\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.sourcelink.json
+D:\Projects\.Net\Microservices\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.dll
+D:\Projects\.Net\Microservices\Play.Common\src\Play.Common\obj\Release\net8.0\refint\Play.Common.dll
+D:\Projects\.Net\Microservices\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.pdb
+D:\Projects\.Net\Microservices\Play.Common\src\Play.Common\obj\Release\net8.0\ref\Play.Common.dll

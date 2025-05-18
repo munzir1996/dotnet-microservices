@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Projects\\.Net\\Microservices\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,9 +51,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "MongoDB.Driver": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[3.4.0, )"
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Play.Common": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
