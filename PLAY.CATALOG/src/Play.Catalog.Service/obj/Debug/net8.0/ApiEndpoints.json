@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "Play.Catalog.Service.Controllers.ItemsController",
-    "Method": "Get",
+    "Method": "GetAsync",
     "RelativePath": "items",
     "HttpMethod": "GET",
     "IsController": true,
@@ -21,7 +21,7 @@
   },
   {
     "ContainingType": "Play.Catalog.Service.Controllers.ItemsController",
-    "Method": "Post",
+    "Method": "PostAsync",
     "RelativePath": "items",
     "HttpMethod": "POST",
     "IsController": true,
@@ -47,7 +47,23 @@
   },
   {
     "ContainingType": "Play.Catalog.Service.Controllers.ItemsController",
-    "Method": "GetById",
+    "Method": "DeleteAsync",
+    "RelativePath": "items",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Play.Catalog.Service.Controllers.ItemsController",
+    "Method": "GetByIdAsync",
     "RelativePath": "items/{id}",
     "HttpMethod": "GET",
     "IsController": true,
@@ -73,7 +89,7 @@
   },
   {
     "ContainingType": "Play.Catalog.Service.Controllers.ItemsController",
-    "Method": "Put",
+    "Method": "PutAsync",
     "RelativePath": "items/{id}",
     "HttpMethod": "PUT",
     "IsController": true,

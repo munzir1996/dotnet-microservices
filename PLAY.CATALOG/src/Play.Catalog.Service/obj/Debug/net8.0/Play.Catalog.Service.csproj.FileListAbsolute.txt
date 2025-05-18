@@ -34,3 +34,10 @@ D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\obj\Debug\n
 D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\obj\Debug\net8.0\Play.Catalog.Service.pdb
 D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\obj\Debug\net8.0\Play.Catalog.Service.genruntimeconfig.cache
 D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\obj\Debug\net8.0\ref\Play.Catalog.Service.dll
+D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\obj\Debug\net8.0\Play.Catalog.Service.sourcelink.json
+D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\bin\Debug\net8.0\DnsClient.dll
+D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\bin\Debug\net8.0\SharpCompress.dll
+D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\bin\Debug\net8.0\Snappier.dll
+D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\bin\Debug\net8.0\ZstdSharp.dll

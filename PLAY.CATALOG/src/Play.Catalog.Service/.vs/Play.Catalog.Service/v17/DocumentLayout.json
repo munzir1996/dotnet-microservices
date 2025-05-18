@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.service\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.service\\play.catalog.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:play.catalog.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.service\\settings\\servicesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:settings\\servicesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.service\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Play.Catalog.Service",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
-              "RelativeDocumentMoniker": "Play.Catalog.Service.csproj",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
-              "RelativeToolTip": "Play.Catalog.Service.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-11T11:49:48.205Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -53,35 +44,9 @@
               "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
               "ToolTip": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
               "RelativeToolTip": "Controllers\\ItemsController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAuwCwAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowEAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T12:23:51.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dtos.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Dtos.cs",
-              "RelativeDocumentMoniker": "Dtos.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Dtos.cs",
-              "RelativeToolTip": "Dtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T11:50:01.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-11T11:39:57.148Z",
+              "WhenOpened": "2025-05-17T12:36:22.77Z",
               "EditorCaption": ""
             },
             {
@@ -92,10 +57,57 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T09:58:18.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T10:23:45.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Settings\\ServiceSettings.cs",
+              "RelativeDocumentMoniker": "Settings\\ServiceSettings.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Settings\\ServiceSettings.cs",
+              "RelativeToolTip": "Settings\\ServiceSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:22:09.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Settings\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "Settings\\MongoDbSettings.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Settings\\MongoDbSettings.cs",
+              "RelativeToolTip": "Settings\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:19:45.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Play.Catalog.Service.csproj",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+              "RelativeDocumentMoniker": "Play.Catalog.Service.csproj",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+              "RelativeToolTip": "Play.Catalog.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T10:19:00.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T10:16:45.564Z"
             }
           ]
         }
