@@ -16,7 +16,6 @@ namespace Play.Common.MongoDB
             BsonSerializer.RegisterSerializer(new GuidSerializer(BsonType.String));
             BsonSerializer.RegisterSerializer(new DateTimeOffsetSerializer(BsonType.String));
 
-
             services.AddSingleton(ServiceProvider =>
             {
                 var configuration = ServiceProvider.GetService<IConfiguration>();
