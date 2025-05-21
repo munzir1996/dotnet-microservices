@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|d:\\projects\\.net\\microservices\\play.inventory\\src\\play.inventory.service\\clients\\catalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|solutionrelative:clients\\catalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|d:\\projects\\.net\\microservices\\play.inventory\\src\\play.inventory.service\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|solutionrelative:dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|d:\\projects\\.net\\microservices\\play.inventory\\src\\play.inventory.service\\clients\\catalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|solutionrelative:clients\\catalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|d:\\projects\\.net\\microservices\\play.inventory\\src\\play.inventory.service\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CatalogClient.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Clients\\CatalogClient.cs",
               "RelativeDocumentMoniker": "Clients\\CatalogClient.cs",
@@ -63,9 +63,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T12:51:34.509Z",
               "EditorCaption": ""
@@ -80,7 +80,8 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-19T12:20:06.088Z"
+              "WhenOpened": "2025-05-19T12:20:06.088Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,17 +119,18 @@
               "RelativeToolTip": "Entities\\InventoryItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:02:05.83Z"
+              "WhenOpened": "2025-05-19T12:02:05.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Dtos.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Dtos.cs",
               "RelativeDocumentMoniker": "Dtos.cs",
               "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Dtos.cs",
               "RelativeToolTip": "Dtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T09:48:06.244Z",
               "EditorCaption": ""
@@ -141,9 +143,10 @@
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-19T09:46:48.607Z"
+              "WhenOpened": "2025-05-19T09:46:48.607Z",
+              "EditorCaption": ""
             }
           ]
         }
