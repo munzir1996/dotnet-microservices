@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|d:\\projects\\.net\\microservices\\play.inventory\\src\\play.inventory.service\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|solutionrelative:dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|d:\\projects\\.net\\microservices\\play.inventory\\src\\play.inventory.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|d:\\projects\\.net\\microservices\\play.inventory\\src\\play.inventory.service\\clients\\catalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|solutionrelative:clients\\catalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|d:\\projects\\.net\\microservices\\play.inventory\\src\\play.inventory.service\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|solutionrelative:extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|d:\\projects\\.net\\microservices\\play.inventory\\src\\play.inventory.service\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|d:\\projects\\.net\\microservices\\play.inventory\\src\\play.inventory.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|d:\\projects\\.net\\microservices\\play.inventory\\src\\play.inventory.service\\entities\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|solutionrelative:entities\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|d:\\projects\\.net\\microservices\\play.inventory\\src\\play.inventory.service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21E2125B-855A-45C7-93B3-CA7395CCBE79}|Play.Inventory.Service.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogClient.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Clients\\CatalogClient.cs",
+              "RelativeDocumentMoniker": "Clients\\CatalogClient.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Clients\\CatalogClient.cs",
+              "RelativeToolTip": "Clients\\CatalogClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:58:24.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:51:34.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T12:20:06.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:07:42.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Extensions.cs",
+              "RelativeDocumentMoniker": "Extensions.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Extensions.cs",
+              "RelativeToolTip": "Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:04:33.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Entities\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Entities\\InventoryItem.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Entities\\InventoryItem.cs",
+              "RelativeToolTip": "Entities\\InventoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:02:05.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dtos.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Dtos.cs",
+              "RelativeDocumentMoniker": "Dtos.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Dtos.cs",
+              "RelativeToolTip": "Dtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:48:06.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T09:46:48.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

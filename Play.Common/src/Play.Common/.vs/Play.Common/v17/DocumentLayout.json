@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\mongodb\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:mongodb\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\settings\\servicesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:settings\\servicesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MongoRepository.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\MongoDB\\MongoRepository.cs",
               "RelativeDocumentMoniker": "MongoDB\\MongoRepository.cs",
               "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\MongoDB\\MongoRepository.cs",
               "RelativeToolTip": "MongoDB\\MongoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwB8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T10:43:12.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Extension.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\MongoDB\\Extension.cs",
               "RelativeDocumentMoniker": "MongoDB\\Extension.cs",
@@ -70,7 +70,7 @@
               "RelativeDocumentMoniker": "IRepository.cs",
               "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\IRepository.cs",
               "RelativeToolTip": "IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T10:40:54.859Z",
               "EditorCaption": ""
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MongoDbSettings.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Settings\\MongoDbSettings.cs",
               "RelativeDocumentMoniker": "Settings\\MongoDbSettings.cs",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ServiceSettings.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Settings\\ServiceSettings.cs",
               "RelativeDocumentMoniker": "Settings\\ServiceSettings.cs",

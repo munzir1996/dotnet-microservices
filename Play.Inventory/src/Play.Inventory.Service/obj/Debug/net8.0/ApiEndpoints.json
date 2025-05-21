@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Play.Inventory.Service.Controllers.ItemsController",
+    "Method": "GetAsync",
+    "RelativePath": "items",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Play.Inventory.Service.Dtos\u002BInventoryItemsDto, Play.Inventory.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Play.Inventory.Service.Controllers.ItemsController",
+    "Method": "PostAsync",
+    "RelativePath": "items",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "grantItemsDto",
+        "Type": "Play.Inventory.Service.Dtos\u002BGrantItemsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
