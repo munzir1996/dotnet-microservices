@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\masstransit\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:masstransit\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\mongodb\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:mongodb\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\settings\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:settings\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\mongodb\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,17 +42,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\MassTransit\\Extensions.cs",
+              "RelativeDocumentMoniker": "MassTransit\\Extensions.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\MassTransit\\Extensions.cs",
+              "RelativeToolTip": "MassTransit\\Extensions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:12:09.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "RabbitMQSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Settings\\RabbitMQSettings.cs",
+              "RelativeDocumentMoniker": "Settings\\RabbitMQSettings.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Settings\\RabbitMQSettings.cs",
+              "RelativeToolTip": "Settings\\RabbitMQSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:02:21.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MongoRepository.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\MongoDB\\MongoRepository.cs",
               "RelativeDocumentMoniker": "MongoDB\\MongoRepository.cs",
               "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\MongoDB\\MongoRepository.cs",
               "RelativeToolTip": "MongoDB\\MongoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwB8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T10:43:12.282Z",
               "EditorCaption": ""
@@ -57,27 +91,27 @@
               "RelativeDocumentMoniker": "MongoDB\\Extension.cs",
               "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\MongoDB\\Extension.cs",
               "RelativeToolTip": "MongoDB\\Extension.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T10:43:02.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\IRepository.cs",
               "RelativeDocumentMoniker": "IRepository.cs",
               "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\IRepository.cs",
               "RelativeToolTip": "IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T10:40:54.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IEntity.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\IEntity.cs",
               "RelativeDocumentMoniker": "IEntity.cs",
@@ -90,20 +124,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MongoDbSettings.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Settings\\MongoDbSettings.cs",
               "RelativeDocumentMoniker": "Settings\\MongoDbSettings.cs",
               "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Settings\\MongoDbSettings.cs",
               "RelativeToolTip": "Settings\\MongoDbSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T10:39:45.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ServiceSettings.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Settings\\ServiceSettings.cs",
               "RelativeDocumentMoniker": "Settings\\ServiceSettings.cs",
@@ -113,6 +147,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T10:39:06.287Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
