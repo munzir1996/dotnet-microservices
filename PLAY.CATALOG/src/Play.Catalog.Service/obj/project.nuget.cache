@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "w7yvMpjp9bI=",
+  "dgSpecHash": "qUev7kiVP30=",
   "success": true,
   "projectFilePath": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
@@ -54,7 +54,8 @@
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512",
-    "C:\\Users\\MoMukhtar\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
+    "C:\\Users\\MoMukhtar\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512",
+    "C:\\Users\\MoMukhtar\\.nuget\\packages\\play.catalog.contracts\\1.0.0\\play.catalog.contracts.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }

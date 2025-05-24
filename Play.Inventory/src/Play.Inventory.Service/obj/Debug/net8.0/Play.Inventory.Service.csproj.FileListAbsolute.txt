@@ -35,12 +35,6 @@ D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Deb
 D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net8.0\staticwebassets.build.json
 D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net8.0\staticwebassets.development.json
 D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net8.0\staticwebassets\msbuild.Play.Inventory.Service.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net8.0\staticwebassets\msbuild.Play.Inventory.Service.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net8.0\staticwebassets\msbuild.build.Play.Inventory.Service.props
-D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Play.Inventory.Service.props
-D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Play.Inventory.Service.props
-D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net8.0\staticwebassets.pack.json
 D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net8.0\Play.Inv.695BBB57.Up2Date
 D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net8.0\Play.Inventory.Service.dll
@@ -59,3 +53,11 @@ D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Deb
 D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\Polly.dll
 D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\Polly.Extensions.Http.dll
 D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\MassTransit.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\MassTransit.Abstractions.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\MassTransit.AspNetCoreIntegration.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\Play.Catalog.Contracts.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net8.0\staticwebassets.build.json.cache
