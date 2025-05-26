@@ -576,7 +576,7 @@
           }
         }
       },
-      "Play.Common/1.0.1": {
+      "Play.Common/1.0.2": {
         "type": "package",
         "dependencies": {
           "MassTransit.AspNetCore": "7.3.1",
@@ -1918,14 +1918,14 @@
         "packageIcon.png"
       ]
     },
-    "Play.Common/1.0.1": {
-      "sha512": "zeo4WyunCBJsZtEB4AcdI97aLFjUkCw+JeRkUiBBd5dD+J8n9G952JEvuYcMmKa8Gc5g/YlpBNi6V77xy85gTw==",
+    "Play.Common/1.0.2": {
+      "sha512": "XD2KCX29LYctauIebqsQqPWD8nc+SulJqgo42uzoIzXW7qQ5OPuVaekqOq2FW9A+LOv+H82+jbu2d1BVJyf6AQ==",
       "type": "package",
-      "path": "play.common/1.0.1",
+      "path": "play.common/1.0.2",
       "files": [
         ".nupkg.metadata",
         "lib/net8.0/Play.Common.dll",
-        "play.common.1.0.1.nupkg.sha512",
+        "play.common.1.0.2.nupkg.sha512",
         "play.common.nuspec"
       ]
     },
@@ -2411,7 +2411,7 @@
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.16",
       "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 8.0.16",
       "Play.Catalog.Contracts >= 1.0.0",
-      "Play.Common >= 1.0.1",
+      "Play.Common >= 1.0.2",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -2480,7 +2480,7 @@
           },
           "Play.Common": {
             "target": "Package",
-            "version": "[1.0.1, )"
+            "version": "[1.0.2, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

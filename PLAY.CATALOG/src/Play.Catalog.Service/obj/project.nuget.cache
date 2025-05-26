@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qUev7kiVP30=",
+  "dgSpecHash": "8E0yjCYcxa4=",
   "success": true,
   "projectFilePath": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
@@ -37,7 +37,7 @@
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\mongodb.bson\\3.4.0\\mongodb.bson.3.4.0.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\mongodb.driver\\3.4.0\\mongodb.driver.3.4.0.nupkg.sha512",
-    "C:\\Users\\MoMukhtar\\.nuget\\packages\\play.common\\1.0.1\\play.common.1.0.1.nupkg.sha512",
+    "C:\\Users\\MoMukhtar\\.nuget\\packages\\play.common\\1.0.2\\play.common.1.0.2.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BohqJjh6qrY=",
+  "dgSpecHash": "aw0Z9joY8Bg=",
   "success": true,
   "projectFilePath": "D:\\Projects\\.Net\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
   "expectedPackageFiles": [
@@ -35,7 +35,7 @@
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\mongodb.bson\\3.4.0\\mongodb.bson.3.4.0.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\mongodb.driver\\3.4.0\\mongodb.driver.3.4.0.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\play.catalog.contracts\\1.0.0\\play.catalog.contracts.1.0.0.nupkg.sha512",
-    "C:\\Users\\MoMukhtar\\.nuget\\packages\\play.common\\1.0.1\\play.common.1.0.1.nupkg.sha512",
+    "C:\\Users\\MoMukhtar\\.nuget\\packages\\play.common\\1.0.2\\play.common.1.0.2.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\polly\\7.2.4\\polly.7.2.4.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
