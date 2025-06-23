@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Service\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.service\\play.catalog.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:play.catalog.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.service\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.service\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.service\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.service\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990AC44F-2E76-461B-AEC9-C48111D4E9EF}|Play.Catalog.Service.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,47 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Play.Catalog.Service",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
-              "RelativeDocumentMoniker": "Play.Catalog.Service.csproj",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
-              "RelativeToolTip": "Play.Catalog.Service.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-26T09:51:02.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ItemsController.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
-              "RelativeToolTip": "Controllers\\ItemsController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:47:31.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Item.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Service\\Entities\\Item.cs",
-              "RelativeDocumentMoniker": "Entities\\Item.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Service\\Entities\\Item.cs",
-              "RelativeToolTip": "Entities\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:47:15.374Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -83,35 +28,22 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Service\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:41:02.076Z",
+              "WhenOpened": "2025-06-22T09:45:35.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Service\\Extensions.cs",
-              "RelativeDocumentMoniker": "Extensions.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Service\\Extensions.cs",
-              "RelativeToolTip": "Extensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Controllers\\ItemsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:40:42.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dtos.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Service\\Dtos.cs",
-              "RelativeDocumentMoniker": "Dtos.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Service\\Dtos.cs",
-              "RelativeToolTip": "Dtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:40:23.998Z",
+              "WhenOpened": "2025-06-22T09:42:35.325Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,5 @@
 using MassTransit;
+using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using Play.Catalog.Service.Entities;
 using Play.Common.MassTransit;
@@ -6,7 +7,6 @@ using Play.Common.MongoDB;
 using Play.Common.Settings;
 
 //ServiceSettings serviceSettings;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -37,6 +37,13 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+
+    app.UseCors(useCors =>
+    {
+        useCors.WithOrigins(builder.Configuration["AllowedOrigin"])
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
 }
 
 app.UseHttpsRedirection();

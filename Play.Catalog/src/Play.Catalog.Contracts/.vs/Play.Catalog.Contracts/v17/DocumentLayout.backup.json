@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{76B18C7C-36AB-4721-975F-F8CCC1B41B11}|Play.Catalog.Contracts.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.contracts\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76B18C7C-36AB-4721-975F-F8CCC1B41B11}|Play.Catalog.Contracts.csproj|solutionrelative:contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76B18C7C-36AB-4721-975F-F8CCC1B41B11}|Play.Catalog.Contracts.csproj|d:\\projects\\.net\\microservices\\play.catalog\\src\\play.catalog.contracts\\play.catalog.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{76B18C7C-36AB-4721-975F-F8CCC1B41B11}|Play.Catalog.Contracts.csproj|solutionrelative:play.catalog.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +24,10 @@
               "RelativeDocumentMoniker": "Contracts.cs",
               "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Contracts.cs",
               "RelativeToolTip": "Contracts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:06:57.792Z",
+              "WhenOpened": "2025-05-26T06:47:01.884Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Play.Catalog.Contracts.csproj",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
-              "RelativeDocumentMoniker": "Play.Catalog.Contracts.csproj",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
-              "RelativeToolTip": "Play.Catalog.Contracts.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-22T11:35:39.223Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

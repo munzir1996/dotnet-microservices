@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {}
+    "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {
+    "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
+        "projectUniqueName": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
         "projectName": "Play.Catalog.Contracts",
-        "projectPath": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
+        "projectPath": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
         "packagesPath": "C:\\Users\\MoMukhtar\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Contracts\\obj\\",
+        "outputPath": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
