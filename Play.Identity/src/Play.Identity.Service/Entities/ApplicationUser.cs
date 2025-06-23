@@ -12,10 +12,10 @@ namespace Play.Identity.Service.Entities
             // Base constructor handles initialization
         }
 
-        //public ApplicationUser(string userName, string email) : base(userName, email)
-        //{
-        //    // Constructor for creating users with basic info
-        //}
+        public ApplicationUser(string userName, string email) 
+        {
+            // Constructor for creating users with basic info
+        }
 
         [BsonElement("gil")]  // Optional: Custom field name in MongoDB
         public decimal Gil { get; set; }
@@ -24,5 +24,7 @@ namespace Play.Identity.Service.Entities
         // Example:
         // public DateTime LastLogin { get; set; }
         // public string ProfileImageUrl { get; set; }
+
+
     }
 }

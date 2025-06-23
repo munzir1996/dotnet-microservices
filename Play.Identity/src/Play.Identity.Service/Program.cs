@@ -6,21 +6,15 @@ using MongoDB.Bson.Serialization;
 using MongoDB.Bson.Serialization.Serializers;
 using Play.Common.Settings;
 using Play.Identity.Service.Entities;
-//using Play.Identity.Service.Areas.Identity.Data;
+using Play.Identity.Service.Settings;
 
 var builder = WebApplication.CreateBuilder(args);
-
-//var connectionString = builder.Configuration.GetConnectionString("IdentityDataContextConnection") ?? throw new InvalidOperationException("Connection string 'IdentityDataContextConnection' not found.");;
-//builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<IdentityDataContext>();
-//var connectionString = builder.Configuration.GetConnectionString("IdentityDataContextConnection") ?? throw new InvalidOperationException("Connection string 'IdentityDataContextConnection' not found.");
-//builder.Services.AddDbContext<IdentityDataContext>(options => options.UseSqlServer(connectionString));
-//builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<IdentityDataContext>();
-//BsonSerializer.RegisterSerializer(new GuidSerializer(BsonType.String));
 
 BsonSerializer.RegisterSerializer(new GuidSerializer(BsonType.String));
 BsonSerializer.RegisterSerializer(new DateTimeOffsetSerializer(BsonType.String));
 var serviceSettings = builder.Configuration.GetSection(nameof(ServiceSettings)).Get<ServiceSettings>();
 var mongoDbSettings = builder.Configuration.GetSection(nameof(MongoDbSettings)).Get<MongoDbSettings>();
+var identityServerSettings = builder.Configuration.GetSection(nameof(IdentityServerSettings)).Get<IdentityServerSettings>();
 
 // Configure Identity with MongoDB
 builder.Services.AddIdentity<ApplicationUser, ApplicationRole>(options =>
@@ -36,7 +30,20 @@ builder.Services.AddIdentity<ApplicationUser, ApplicationRole>(options =>
 {
     options.ConnectionString = mongoDbSettings.ConnectionString;
     //options.DatabaseName = serviceSettings.ServiceName;
-}).AddDefaultTokenProviders();
+}).AddDefaultTokenProviders()
+.AddDefaultUI(); 
+
+builder.Services.AddIdentityServer(options =>
+{
+    options.Events.RaiseSuccessEvents = true;
+    options.Events.RaiseErrorEvents = true;
+    options.Events.RaiseFailureEvents = true;
+})
+    .AddAspNetIdentity<ApplicationUser>()
+    .AddInMemoryApiScopes(identityServerSettings.ApiScopes)
+    .AddInMemoryClients(identityServerSettings.Clients)
+    .AddInMemoryIdentityResources(identityServerSettings.IdentityResources);
+
 
 // Add a dummy email sender to satisfy the dependency
 builder.Services.AddTransient<IEmailSender, NullEmailSender>();
@@ -65,6 +72,8 @@ app.UseStaticFiles();
 
 // Enable routing
 app.UseRouting();
+
+app.UseIdentityServer();
 
 app.UseAuthentication();
 app.UseAuthorization();
