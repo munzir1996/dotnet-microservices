@@ -9,9 +9,8 @@
       "Play.Catalog.Service/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.16",
-          "Microsoft.AspNetCore.Authentication.OpenIdConnect": "8.0.16",
           "Play.Catalog.Contracts": "1.0.0",
-          "Play.Common": "1.0.1",
+          "Play.Common": "1.0.2",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
@@ -97,17 +96,6 @@
         },
         "runtime": {
           "lib/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
-            "assemblyVersion": "8.0.16.0",
-            "fileVersion": "8.0.1625.21611"
-          }
-        }
-      },
-      "Microsoft.AspNetCore.Authentication.OpenIdConnect/8.0.16": {
-        "dependencies": {
-          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "7.1.2"
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll": {
             "assemblyVersion": "8.0.16.0",
             "fileVersion": "8.0.1625.21611"
           }
@@ -325,7 +313,7 @@
           }
         }
       },
-      "Play.Common/1.0.1": {
+      "Play.Common/1.0.2": {
         "dependencies": {
           "MassTransit.AspNetCore": "7.3.1",
           "MassTransit.RabbitMQ": "8.4.1",
@@ -505,13 +493,6 @@
       "path": "microsoft.aspnetcore.authentication.jwtbearer/8.0.16",
       "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.8.0.16.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Authentication.OpenIdConnect/8.0.16": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-dc/PwmCpdIbU74Wnf6WSLbr8gfxCGCSAl5AAO6edBbUdo1nnqCYTyVVjtzffs7LGiDpKjT1myeWHiI2LsPssjw==",
-      "path": "microsoft.aspnetcore.authentication.openidconnect/8.0.16",
-      "hashPath": "microsoft.aspnetcore.authentication.openidconnect.8.0.16.nupkg.sha512"
-    },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "type": "package",
       "serviceable": true,
@@ -687,12 +668,12 @@
       "path": "mongodb.driver/3.4.0",
       "hashPath": "mongodb.driver.3.4.0.nupkg.sha512"
     },
-    "Play.Common/1.0.1": {
+    "Play.Common/1.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-zeo4WyunCBJsZtEB4AcdI97aLFjUkCw+JeRkUiBBd5dD+J8n9G952JEvuYcMmKa8Gc5g/YlpBNi6V77xy85gTw==",
-      "path": "play.common/1.0.1",
-      "hashPath": "play.common.1.0.1.nupkg.sha512"
+      "sha512": "sha512-XD2KCX29LYctauIebqsQqPWD8nc+SulJqgo42uzoIzXW7qQ5OPuVaekqOq2FW9A+LOv+H82+jbu2d1BVJyf6AQ==",
+      "path": "play.common/1.0.2",
+      "hashPath": "play.common.1.0.2.nupkg.sha512"
     },
     "RabbitMQ.Client/7.1.2": {
       "type": "package",

@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\masstransit\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:masstransit\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\identity\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:identity\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\mongodb\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:mongodb\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\settings\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:settings\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\settings\\servicesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:settings\\servicesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\mongodb\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:mongodb\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|d:\\projects\\.net\\microservices\\play.common\\src\\play.common\\identity\\configurejwtbeareroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98E5741-A771-4647-A779-A476C89A334E}|Play.Common.csproj|solutionrelative:identity\\configurejwtbeareroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,105 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RabbitMQSettings.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Settings\\RabbitMQSettings.cs",
-              "RelativeDocumentMoniker": "Settings\\RabbitMQSettings.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Settings\\RabbitMQSettings.cs",
-              "RelativeToolTip": "Settings\\RabbitMQSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:46:16.319Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Extensions.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\MassTransit\\Extensions.cs",
-              "RelativeDocumentMoniker": "MassTransit\\Extensions.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\MassTransit\\Extensions.cs",
-              "RelativeToolTip": "MassTransit\\Extensions.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Identity\\Extensions.cs",
+              "RelativeDocumentMoniker": "Identity\\Extensions.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Identity\\Extensions.cs",
+              "RelativeToolTip": "Identity\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:46:09.607Z",
+              "WhenOpened": "2025-07-01T07:41:27.427Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MongoRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\MongoDB\\MongoRepository.cs",
-              "RelativeDocumentMoniker": "MongoDB\\MongoRepository.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\MongoDB\\MongoRepository.cs",
-              "RelativeToolTip": "MongoDB\\MongoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:45:33.374Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Extension.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\MongoDB\\Extension.cs",
-              "RelativeDocumentMoniker": "MongoDB\\Extension.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\MongoDB\\Extension.cs",
-              "RelativeToolTip": "MongoDB\\Extension.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABdAAAAAAAAAA==",
+              "Title": "ConfigureJwtBearerOptions.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Identity\\ConfigureJwtBearerOptions.cs",
+              "RelativeDocumentMoniker": "Identity\\ConfigureJwtBearerOptions.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Identity\\ConfigureJwtBearerOptions.cs",
+              "RelativeToolTip": "Identity\\ConfigureJwtBearerOptions.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwCoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:42:51.425Z",
+              "WhenOpened": "2025-07-01T06:58:02.951Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MongoDbSettings.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Settings\\MongoDbSettings.cs",
-              "RelativeDocumentMoniker": "Settings\\MongoDbSettings.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Settings\\MongoDbSettings.cs",
-              "RelativeToolTip": "Settings\\MongoDbSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:42:39.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServiceSettings.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Settings\\ServiceSettings.cs",
-              "RelativeDocumentMoniker": "Settings\\ServiceSettings.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\Settings\\ServiceSettings.cs",
-              "RelativeToolTip": "Settings\\ServiceSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:41:51.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\IRepository.cs",
-              "RelativeDocumentMoniker": "IRepository.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\IRepository.cs",
-              "RelativeToolTip": "IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:41:45.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IEntity.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\IEntity.cs",
-              "RelativeDocumentMoniker": "IEntity.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Common\\src\\Play.Common\\IEntity.cs",
-              "RelativeToolTip": "IEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:41:40.541Z"
             }
           ]
         }

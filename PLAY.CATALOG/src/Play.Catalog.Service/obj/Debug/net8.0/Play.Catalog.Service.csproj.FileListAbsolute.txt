@@ -8,7 +8,6 @@ D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\bin\Debug\n
 D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\bin\Debug\net8.0\Play.Catalog.Service.pdb
 D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\bin\Debug\net8.0\DnsClient.dll
 D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
 D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
 D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\Projects\.Net\Microservices\PLAY.CATALOG\src\Play.Catalog.Service\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll

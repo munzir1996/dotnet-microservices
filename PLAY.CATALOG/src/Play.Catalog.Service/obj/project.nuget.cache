@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8E0yjCYcxa4=",
+  "dgSpecHash": "v8vso0I7OhU=",
   "success": true,
   "projectFilePath": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,6 @@
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\masstransit.extensions.dependencyinjection\\7.3.1\\masstransit.extensions.dependencyinjection.7.3.1.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\masstransit.rabbitmq\\8.4.1\\masstransit.rabbitmq.8.4.1.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.16\\microsoft.aspnetcore.authentication.jwtbearer.8.0.16.nupkg.sha512",
-    "C:\\Users\\MoMukhtar\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\8.0.16\\microsoft.aspnetcore.authentication.openidconnect.8.0.16.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.5\\microsoft.extensions.configuration.9.0.5.nupkg.sha512",
     "C:\\Users\\MoMukhtar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.5\\microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",
