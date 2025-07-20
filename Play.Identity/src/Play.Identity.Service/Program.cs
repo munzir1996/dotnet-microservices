@@ -45,6 +45,7 @@ builder.Services.AddIdentityServer(options =>
     .AddInMemoryClients(identityServerSettings.Clients)
     .AddInMemoryIdentityResources(identityServerSettings.IdentityResources);
 
+builder.Services.AddLocalApiAuthentication();
 
 // Add a dummy email sender to satisfy the dependency
 builder.Services.AddTransient<IEmailSender, NullEmailSender>();

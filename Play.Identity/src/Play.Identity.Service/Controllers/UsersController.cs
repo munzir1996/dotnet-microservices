@@ -1,12 +1,15 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Play.Identity.Service.Entities;
+using static Duende.IdentityServer.IdentityServerConstants;
 using static Play.Identity.Service.Dtos;
 
 namespace Play.Identity.Service.Controllers
 {
     [ApiController]
     [Route("users")]
+    [Authorize(Policy = LocalApi.PolicyName)]
     public class UsersController : ControllerBase
     {
 

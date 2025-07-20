@@ -12,10 +12,11 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("3a23a83e-0e6e-461c-a66f-c4daeb151e4c")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Play.Identity.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88ed66368bf1a804121520d932a55eb25fd36c30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9afd692267bb6cd571d783b4c0d3d806b268cb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Play.Identity.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Play.Identity.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

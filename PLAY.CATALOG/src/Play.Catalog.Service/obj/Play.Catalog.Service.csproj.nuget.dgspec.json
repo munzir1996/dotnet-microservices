@@ -4,14 +4,14 @@
     "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {
+    "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
+        "projectUniqueName": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
         "projectName": "Play.Catalog.Contracts",
-        "projectPath": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
+        "projectPath": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
         "packagesPath": "C:\\Users\\MoMukhtar\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\.Net\\Microservices\\PLAY.CATALOG\\src\\Play.Catalog.Contracts\\obj\\",
+        "outputPath": "D:\\Projects\\.Net\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,13 +121,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[8.0.16, )"
-            },
             "Play.Common": {
               "target": "Package",
-              "version": "[1.0.2, )"
+              "version": "[1.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

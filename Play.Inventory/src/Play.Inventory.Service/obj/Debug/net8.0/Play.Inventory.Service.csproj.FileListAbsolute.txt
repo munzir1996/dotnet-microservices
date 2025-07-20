@@ -61,3 +61,11 @@ D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Deb
 D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\Play.Catalog.Contracts.dll
 D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\RabbitMQ.Client.dll
 D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\.Net\Microservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

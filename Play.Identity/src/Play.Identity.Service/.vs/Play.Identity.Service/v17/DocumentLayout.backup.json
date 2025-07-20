@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|d:\\projects\\.net\\microservices\\play.identity\\src\\play.identity.service\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|d:\\projects\\.net\\microservices\\play.identity\\src\\play.identity.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,32 +19,16 @@
       "RelativeMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|d:\\projects\\.net\\microservices\\play.identity\\src\\play.identity.service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|d:\\projects\\.net\\microservices\\play.identity\\src\\play.identity.service\\settings\\identityserversettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|solutionrelative:settings\\identityserversettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|d:\\projects\\.net\\microservices\\play.identity\\src\\play.identity.service\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|d:\\projects\\.net\\microservices\\play.identity\\src\\play.identity.service\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|solutionrelative:entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|d:\\projects\\.net\\microservices\\play.identity\\src\\play.identity.service\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|d:\\projects\\.net\\microservices\\play.identity\\src\\play.identity.service\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|d:\\projects\\.net\\microservices\\play.identity\\src\\play.identity.service\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|solutionrelative:extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|d:\\projects\\.net\\microservices\\play.identity\\src\\play.identity.service\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|solutionrelative:dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|d:\\projects\\.net\\microservices\\play.identity\\src\\play.identity.service\\entities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6176549-6AE9-4D67-8A07-6217CF4290F7}|Play.Identity.Service.csproj|solutionrelative:entities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,70 +38,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-29T09:38:48.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
               "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-23T11:25:44.34Z",
+              "WhenOpened": "2025-07-20T10:25:44.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-23T11:25:14.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:21:35.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-23T11:21:31.55Z"
+              "WhenOpened": "2025-07-20T10:02:14.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -123,59 +74,59 @@
               "RelativeDocumentMoniker": "Settings\\IdentityServerSettings.cs",
               "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Settings\\IdentityServerSettings.cs",
               "RelativeToolTip": "Settings\\IdentityServerSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T09:51:31.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T10:01:56.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T10:56:53.884Z",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T10:01:03.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswEoAAAAcAAAAAAAAAA==",
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T10:42:32.838Z"
+              "WhenOpened": "2025-07-20T10:00:51.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Extensions.cs",
-              "RelativeDocumentMoniker": "Extensions.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Extensions.cs",
-              "RelativeToolTip": "Extensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Entities\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationRole.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Entities\\ApplicationRole.cs",
+              "RelativeToolTip": "Entities\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T10:20:14.711Z"
+              "WhenOpened": "2025-07-20T10:00:47.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Dtos.cs",
-              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Dtos.cs",
-              "RelativeDocumentMoniker": "Dtos.cs",
-              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Dtos.cs",
-              "RelativeToolTip": "Dtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\.Net\\Microservices\\Play.Identity\\src\\Play.Identity.Service\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T09:58:35.908Z"
+              "WhenOpened": "2025-07-20T10:00:33.667Z",
+              "EditorCaption": ""
             }
           ]
         }
