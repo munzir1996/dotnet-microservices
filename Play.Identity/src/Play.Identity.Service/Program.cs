@@ -11,6 +11,7 @@ using Play.Identity.Service.Settings;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
 BsonSerializer.RegisterSerializer(new GuidSerializer(BsonType.String));
 BsonSerializer.RegisterSerializer(new DateTimeOffsetSerializer(BsonType.String));
 var serviceSettings = builder.Configuration.GetSection(nameof(ServiceSettings)).Get<ServiceSettings>();
@@ -70,6 +71,11 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+
+    app.UseCors(builders =>
+    {
+        builders.WithOrigins(builder.Configuration["AllowedOrigin"]).AllowAnyHeader().AllowAnyMethod();
+    });
 }
 
 app.UseHttpsRedirection();

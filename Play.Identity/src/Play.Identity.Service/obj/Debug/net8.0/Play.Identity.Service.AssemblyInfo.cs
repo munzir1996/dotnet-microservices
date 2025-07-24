@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Play.Identity.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5781b56d7ba453707c76907f34e4381a1cc1aec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+524438d1e7dcf898a1145b9748c09147a0304163")]
 [assembly: System.Reflection.AssemblyProductAttribute("Play.Identity.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Play.Identity.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

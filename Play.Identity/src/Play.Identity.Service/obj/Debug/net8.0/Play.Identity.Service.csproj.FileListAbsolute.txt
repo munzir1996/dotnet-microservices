@@ -268,4 +268,7 @@ D:\Projects\.Net\Microservices\Play.Identity\src\Play.Identity.Service\bin\Debug
 D:\Projects\.Net\Microservices\Play.Identity\src\Play.Identity.Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\Projects\.Net\Microservices\Play.Identity\src\Play.Identity.Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Projects\.Net\Microservices\Play.Identity\src\Play.Identity.Service\bin\Debug\net8.0\keys\is-signing-key-7B7602125D2D33C9CF80C925F160F867.json
-D:\Projects\.Net\Microservices\Play.Identity\src\Play.Identity.Service\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Projects\.Net\Microservices\Play.Identity\src\Play.Identity.Service\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Projects\.Net\Microservices\Play.Identity\src\Play.Identity.Service\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Projects\.Net\Microservices\Play.Identity\src\Play.Identity.Service\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Projects\.Net\Microservices\Play.Identity\src\Play.Identity.Service\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
